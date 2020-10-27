@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAVERAGE.a  CMakeFiles/AVERAGE.dir/average.cpp.o
+/usr/bin/ranlib libAVERAGE.a

@@ -1,0 +1,4 @@
+/home/evgenstf/z_sort_sources/cpp/cpp_linking/sample_4/build/CMakeFiles/rebuild_cache.dir
+/home/evgenstf/z_sort_sources/cpp/cpp_linking/sample_4/build/CMakeFiles/MAIN.dir
+/home/evgenstf/z_sort_sources/cpp/cpp_linking/sample_4/build/CMakeFiles/edit_cache.dir
+/home/evgenstf/z_sort_sources/cpp/cpp_linking/sample_4/build/CMakeFiles/AVERAGE.dir

@@ -1,0 +1,1 @@
+/usr/bin/clang++   -std=c++11 -Wall  -rdynamic CMakeFiles/MAIN.dir/main.cpp.o  -o MAIN  libAVERAGE.a 
